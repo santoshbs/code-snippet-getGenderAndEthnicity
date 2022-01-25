@@ -37,6 +37,6 @@ p.head()
 
 df_ethnicity= df.merge(p, on= 'name_last', how= 'left') #merge with 
 
-f= '/media/santoshbs/WD_BLACK/santosh/Gan-Organized/1-Projects-ONGOING/ELIE-YASIR/_data/_uspto_patentsview/_inferred/INVENTORS_inferred_ETHNICITY_usingPYEthnicolrAPI_v2.csv'
+f= './inferred_ETHNICITY_usingPYEthnicolrAPI_v1.csv'
 df_ethnicity.to_csv(f, index= False)
 
