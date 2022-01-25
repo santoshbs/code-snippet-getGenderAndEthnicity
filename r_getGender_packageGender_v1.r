@@ -1,7 +1,7 @@
 ############################################################################################
 # Created on Mon Jan 24 2022;
 # @author: santoshbs;
-# @purpose: Infer ethnicity based on the last name of a person; 
+# @purpose: Infer gender based on the last name of a person; 
 # @package-used: http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html; (r gender package)
 # @other notes: https://stackoverflow.com/questions/35183395/genderdata-package-unavailable-for-r-3-2-3 (to install genderdata library)
 ############################################################################################
